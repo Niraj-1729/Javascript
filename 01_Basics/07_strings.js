@@ -1,7 +1,7 @@
 const name = "Niraj"
 const repoCount=50
 console.log(name+repoCount+"Some value");
-// string interpolations
+// string interpolationsr
 console.log(`hello My name is ${name} and my repo count is ${repoCount}`);
 
 const gameName= new String("Niraj-AH-com")
